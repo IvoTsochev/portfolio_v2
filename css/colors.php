@@ -115,7 +115,7 @@ h6 > span:not(.nocolor):not(.badge),
 .overlay-menu #primary-menu.dark > ul > li.current > a,
 .nav-tree li:hover > a,
 .nav-tree li.current > a,
-.nav-tree li.active > a { color: <?php echo $color; ?> !important; }
+.nav-tree li.active > a { color: <?php echo $color; ?>; }
 
 #primary-menu.style-3 > ul > li.current > a,
 #primary-menu.sub-title > ul > li:hover > a,
@@ -187,7 +187,7 @@ input.switch-toggle-round:checked + label:before,
 .irs-single,
 .irs-handle > i:first-child,
 .irs-handle.state_hover > i:first-child,
-.irs-handle:hover > i:first-child { background-color: <?php echo $color; ?> !important; }
+.irs-handle:hover > i:first-child { background-color: <?php echo $color; ?>; }
 
 #primary-menu.style-4 > ul > li:hover > a,
 #primary-menu.style-4 > ul > li.current > a,
